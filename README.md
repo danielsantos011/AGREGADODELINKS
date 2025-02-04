@@ -36,7 +36,7 @@ JavaScript
 
 Clone este repositório:
 
-https://github.com/danielsantos011/P-ginaQRCODE.git
+https://github.com/danielsantos011/AGREGADODELINKS.git
 
 Abra o arquivo index.html no navegador.
 
